@@ -1,10 +1,10 @@
 # CMSC 14200 Course Project
 
 Team members:
-- Ahmad Nadi (ahmadnadi) QA
-- Thomas Szafir (szafir) TUI
-- Hans Amemiya (amemiya) GUI
-- David Wang (davwan26) BOT
+- Ahmad Nadi (ahmadnadi)
+- Thomas Szafir (szafir)
+- Hans Amemiya (amemiya)
+- David Wang (davwan26)
 
 Enhancement:
 - GUI Background Music
